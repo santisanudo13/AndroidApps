@@ -1,0 +1,38 @@
+{"summary":{"items":5,"items_per_page":1000,"pages":1,"current_page":1},"resources":[
+  {
+    "ayto:numero": "N2",
+    "dc:name": "CORBAN-COMPLEJO por G. Davila",
+    "dc:modified": "2017-11-12T00:00:00.74Z",
+    "dc:identifier": "102",
+    "uri": "http://datos.santander.es/api/datos/lineas_bus/102.json"
+  },
+  {
+    "ayto:numero": "20",
+    "dc:name": "ESTACIONES-BARRIO LA TORRE",
+    "dc:modified": "2017-09-11T23:00:00.976Z",
+    "dc:identifier": "20",
+    "uri": "http://datos.santander.es/api/datos/lineas_bus/20.json"
+  },
+  {
+    "ayto:numero": "7C2",
+    "dc:name": "JOAQUIN BUSTAMANTE",
+    "dc:modified": "2017-11-12T00:00:00.74Z",
+    "dc:identifier": "72",
+    "uri": "http://datos.santander.es/api/datos/lineas_bus/72.json"
+  },
+  {
+    "ayto:numero": "7C1",
+    "dc:name": "LUIS QUINTANILLA",
+    "dc:modified": "2017-11-12T00:00:00.74Z",
+    "dc:identifier": "71",
+    "uri": "http://datos.santander.es/api/datos/lineas_bus/71.json"
+  },
+  {
+    "ayto:numero": "6C2",
+    "dc:name": "COMPLEJO C2",
+    "dc:modified": "2017-11-12T00:00:00.74Z",
+    "dc:identifier": "62",
+    "uri": "http://datos.santander.es/api/datos/lineas_bus/62.json"
+  }
+]
+}

@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">TUS Santander</string>
+    <string name="app_carga_datos_ok">Datos obtenidos con éxito</string>
+    <string name="app_carga_datos_enproceso">Cargando datos</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="navigationOption1">Paradas</string>
+    <string name="navigationOption2">Lineas</string>
+    <string name="navigationOption3">Grupos</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_list_paradas_adapter_sorted">ListParadasAdapterSorted</string>
+    <string name="app_fallo_conexion">Fallo en la conexión</string>
+    <string name="app_fallo_bbdd">Ha ocurrido un fallo a la hora de realizar la operación, inténtelo de nuevo más tarde</string>
+    <string name="nombre_base_datos">g3_database.db</string>
+    <string name="search_placeholder">Buscar...</string>
+    <string name="title_activity_estimaciones">Estimaciones</string>
+
+
+    <string name="window_delete_ok">Eliminar</string>
+    <string name="window_delete_text">¿Desea realmente eliminar %%TITULO%%?</string>
+    <string name="window_cancel">Cancelar</string>
+    <string name="paradas_listavacia">Aún no hay paradas en esta vista</string>
+    <string name="lineas_listavacia">No hay líneas disponibles en este momento</string>
+
+</resources>

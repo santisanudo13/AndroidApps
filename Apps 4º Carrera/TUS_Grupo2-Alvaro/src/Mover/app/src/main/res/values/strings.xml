@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Mover</string>
+    <string name="item_navigation_trayectos">Buscar</string>
+    <string name="item_navigation_paradas">Paradas</string>
+    <string name="item_navigation_lineas">Lineas</string>
+    <string name="cont_tab_todas">Todas</string>
+    <string name="cont_tab_favoritas">Favoritas</string>
+    <string name="paradas_title">PARADAS</string>
+    <string name="search_lineas">Buscar linea</string>
+    <string name="search_paradas_lineas">Buscar parada</string>
+    <string name="title_activity_detalles_parada">DetallesParadaActivity</string>
+    <string name="comentario_default">Pulse para introducir una nota.</string>
+    <string name="comentario_title">Notas</string>
+    <string name="estimaciones_title">Estimaciones</string>
+    <string name="action_settings">Settings</string>
+    <string name="save_comment">Guardar nota</string>
+    <string name="txt_sug_notas_vacio">Introducir nota</string>
+
+</resources>
